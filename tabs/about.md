@@ -1,5 +1,5 @@
 ---
-title: О нас
+title: about
 
 # The About page
 # v2.0
