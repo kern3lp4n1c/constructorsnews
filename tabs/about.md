@@ -8,4 +8,4 @@ title: О нас
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> Скоро будет. Не все ж сразу и в 2 ночи 0_о
