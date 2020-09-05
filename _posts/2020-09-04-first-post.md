@@ -3,7 +3,7 @@ title: Теперь с новостями
 author: Try Hard
 date: 2020-09-04 02:54:00 +0800
 categories: [News]
-tags: [News]
+tags: [Site]
 toc: false
 ---
 
