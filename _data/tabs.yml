@@ -14,7 +14,7 @@
   path: tabs
   url: categories
 -
-  name: "Таги"
+  name: "Тэги"
   icon: "fas fa-tags"
   path: tabs
   url: tags
