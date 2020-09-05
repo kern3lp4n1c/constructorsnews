@@ -116,7 +116,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Посты
+          label: Posts
           url: /
   -
     scope:
@@ -131,7 +131,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Домашняя
+          label: Home
           url: /
         -
           label: Tags
@@ -144,10 +144,10 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Домашняя
+          label: Home
           url: /
         -
-          label: Категории
+          label: Category
           url: /tabs/categories/
   -
     scope:
@@ -157,7 +157,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Домашняя
+          label: Home
           url: /
 
 
